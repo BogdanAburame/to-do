@@ -1,0 +1,24 @@
+.sectionHead {
+  border: 1px solid gray;
+}
+
+.sectionTitle {
+  font-size: 26px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.sectionContainer {
+  width: 100%;
+  height: 100px;
+}
+
+.actionButtons {
+  display: flex;
+  justify-content: center;
+}
+
+.sectionBody {
+  background-color: lightgray;
+  height: 100%;
+}
